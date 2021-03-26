@@ -1,0 +1,70 @@
+
+#menubar{
+    background-color: rgb(172, 171, 171);
+    height: 70px;
+    color: blueviolet;
+}
+p{
+    float: left;
+    font-size: 18px;
+    font-family: Agency FB;
+    margin-left: 210px;
+    
+}
+ul li a{
+    color: white;
+    text-decoration: none;
+}
+ul li{
+    list-style: none;
+    display: inline;
+    padding-right: 20px;
+}
+ul{
+    float: right;
+    margin-right: 230px;
+    font-family: Agency FB;
+    padding-top: 10px;
+}
+a:hover{
+    color: blueviolet;
+}
+#intro{
+    width: 50%;
+    margin-left: 20%;
+}
+#head{
+    font-size: 25px;
+    text-align: center;
+    margin-left: 50%;
+    margin-top: 50px;
+}
+#para{
+    text-align: center;
+    margin-bottom: 30px;
+}
+#box1{
+    width: 70%;
+    margin-left: 15%;
+}
+#img1{
+    width: 30%;
+    height: 300px;
+    
+}
+#img2{
+    width: 65%;
+    height: 300px;
+}
+#img3{
+    width: 30%;
+    height: 300px;
+}
+#img4{
+    width: 25%;
+    height: 300px;
+}
+#img5{
+    width: 40%;
+    height: 300px;
+}
